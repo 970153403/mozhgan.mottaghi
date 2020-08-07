@@ -13,4 +13,4 @@ Teaching piano
 ### Contact Me
 -Gmail: mozhgan2016@gmail.com
 
--<Quera profille:a href="https://quera.ir/profile/mozhgan2016">url</a>
+- Quera Profile: <a href="https://quera.ir/profile/mozhgan2016">My Profile</a>
