@@ -35,3 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### About Me
+I am Mozhgan I have been playing the piano since I was 10 years old I study computer engineering At Payame Noor University, North Tehran
+### Skills
+ + Piano
+.
+.
+.
+### Contact Me
+-Gmail: mozhgan2016@gmail.com
