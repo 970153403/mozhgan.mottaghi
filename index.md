@@ -17,14 +17,14 @@ I am Mozhgan I have been playing the piano since I was 10 years old I study comp
  + Piano playing
  + painting
  + ICDL courses
- + C Programming
+ + C++ Programming
  + Sql programming
 
 ### Work Experience
 +Teaching piano
 +University projects designing and implementation.
 
-###Certifications
+### Certifications
 +ICDL certificate
 +Piano certificate
 +C university certificat
