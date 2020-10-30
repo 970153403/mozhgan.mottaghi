@@ -6,7 +6,9 @@ I am Mozhgan I have been playing the piano since I was 10 years old I study comp
 
 ### Personal information
 First name : Mozhgan
+
 Last name : Mottaghi sabet
+
 Birth Day : Esfand 1378
 
 ### Languages
@@ -23,12 +25,16 @@ English(Intermediate)
 
 ### Work Experience
 Teaching piano
+
 University projects designing and implementation.
 
 ### Certifications
 ICDL certificate
+
 Piano certificate
+
 C university certificat
+
 SQL Server certificate.
 
 ### Contact Me
