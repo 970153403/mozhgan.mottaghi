@@ -5,13 +5,13 @@ I am Mozhgan I have been playing the piano since I was 10 years old I study comp
 09192135710
 
 ### Personal information
-+First name : Mozhgan
-+Last name : Mottaghi sabet
-+Birth Day : Esfand 1378
+First name : Mozhgan
+Last name : Mottaghi sabet
+Birth Day : Esfand 1378
 
 ### Languages
-+Persian
-+English(Intermediate)
+Persian
+English(Intermediate)
 
 ### Skills
  + Piano playing
@@ -21,14 +21,14 @@ I am Mozhgan I have been playing the piano since I was 10 years old I study comp
  + Sql programming
 
 ### Work Experience
-+Teaching piano
-+University projects designing and implementation.
+Teaching piano
+University projects designing and implementation.
 
 ### Certifications
-+ICDL certificate
-+Piano certificate
-+C university certificat
-+SQL Server certificate.
+ICDL certificate
+Piano certificate
+C university certificat
+SQL Server certificate.
 
 ### Contact Me
 - Gmail: mozhgan2016@gmail.com
